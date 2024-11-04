@@ -122,7 +122,7 @@ def draw_iphone():
 
 while True:
     draw_iphone()
-    break
+    done()
 '''
 
 print("----- Welcome to the drawing system ----")
